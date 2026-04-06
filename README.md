@@ -60,5 +60,3 @@ streamlit run app.py
 - **[Plotly Express & Graph Objects](https://plotly.com/python/)**: For generating beautiful, scalable dark-themed heatmaps, bar charts, and histograms.
 - **[NumPy & Pandas](https://numpy.org/)**: For constructing the underlying matrix multiplications, linear algebra operations, and data logic safely from scratch.
 
----
-*Built with ❤️ to make AI approachable and visually understandable.*
